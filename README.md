@@ -28,8 +28,6 @@ To train the DCGAN model on your own dataset, follow the steps below:
 
 - Clone this repository: git clone https://github.com/ADITYAS1000/Anime_Face_Generation.git
 - Install the required dependencies: pip install -r requirements.txt
-- Prepare your own dataset of anime faces in PNG format with transparent backgrounds.
-- Adjust the training parameters and dataset paths in the configuration file.
 - Start the training process: python train.py
 - Monitor the training progress and evaluate the generated images using the provided metrics.
 
